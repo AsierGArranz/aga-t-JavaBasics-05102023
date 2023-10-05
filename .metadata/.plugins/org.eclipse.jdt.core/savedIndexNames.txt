@@ -1,0 +1,7 @@
+INDEX VERSION 1.134+D:\BootCamp\Deberes\C2 -Desenvolupament orinientat a objectes amb Java\UD04 -Java Basics\.metadata\.plugins\org.eclipse.jdt.core
+1852659828.index
+2265906497.index
+4027174359.index
+3267282300.index
+426404066.index
+1865797976.index
